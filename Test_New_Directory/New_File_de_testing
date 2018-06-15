@@ -10,7 +10,11 @@ test master suite à 1143git
 1143 création de la branche 1143
 test sur master pour rebase 20H19
 test sur master 20H20
+<<<<<<< HEAD
 test rebase branch 20H23
 test rebase branch 20H40
 test du vendredi 15/06/2018 sur la master
 
+=======
+test java master 22H54
+>>>>>>> 96a40ae1c145b38a4004f475b6b872deb332cf05
